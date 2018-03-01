@@ -36,18 +36,6 @@ body {
   color: yellow;
 }
 
-#K {
-  position: fixed;
-  margin-left: 950px;
-  padding-right: 8%;
-  font-family: 'CaveStoryRegular'; 
-  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
-  font-size: 25px;
-  font-weight: normal; 
-  font-style: normal; 
-  color: yellow;
-}
-
 .click {
   font-family: 'CaveStoryRegular';
   font-size: 25px;
