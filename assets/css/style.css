@@ -1,0 +1,98 @@
+body {
+  background: url("http://www.msgweb.nl/images/backgrounds/Grappig/item4507.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#header{
+  text-align: center;
+  text-shadow: 5px 0  black, 0  5px black, 5px 0  black, 0 5px black;
+  font-family: 'CaveStoryRegular'; 
+  font-size: 150px;
+  font-weight: normal; 
+  font-style: normal; 
+  color: yellow;
+}
+
+#L{
+  text-align: center;
+  font-family: 'CaveStoryRegular'; 
+  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
+  font-size: 35px;
+  font-weight: normal; 
+  font-style: normal; 
+  color: yellow;
+}
+
+#p{
+  text-align: center;
+  font-family: 'CaveStoryRegular'; 
+  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
+  font-size: 35px;
+  font-weight: normal; 
+  font-style: normal; 
+  color: yellow;
+}
+
+#K {
+  position: fixed;
+  margin-left: 950px;
+  padding-right: 8%;
+  font-family: 'CaveStoryRegular'; 
+  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
+  font-size: 25px;
+  font-weight: normal; 
+  font-style: normal; 
+  color: yellow;
+}
+
+.click {
+  font-family: 'CaveStoryRegular';
+  font-size: 25px;
+  background-color: black;
+  border-color: yellow;
+  color: yellow;
+  margin: 10px;
+  padding: 10px 30px 10px 30px;
+}
+
+#buttons{
+  text-align: center;
+}
+
+#searchbar{
+  text-align: center;
+  padding-top: 2%;
+}
+
+#giphy{
+  text-align: center;
+}
+
+#search {
+  font-family: 'CaveStoryRegular';
+  font-size: 25px;
+  background-color: black;
+  border-color: yellow;
+  color: yellow;
+  padding: 10px 20px 10px 20px;
+}
+
+#rating{
+   font-family: 'CaveStoryRegular'; 
+  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
+  font-size: 35px;
+  font-weight: normal; 
+  font-style: normal; 
+  color: yellow;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+#input {
+  padding: 10px 35px 10px 35px;
+}
+
