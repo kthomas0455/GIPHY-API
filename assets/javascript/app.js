@@ -25,9 +25,6 @@ $(document).ready(function() {
   $("#buttons").on("click", ".click", function() {
     $("#giphy").empty();
    
-    // var topic = $(this).attr("data-name");
-    // var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + topic + "&api_key=8bvrXfOVZnPW3TMYuEFO8jRewu4AXh3U&limit=10&rating";
-
     var tvShow = $(this).attr("data-name");
     var queryURL = "https://api.giphy.com/v1/gifs/search?q="+ tvShow +"&api_key=LBzJClt2nUnrziIdOPm3XfG6o2JeLlAt&limit=10&rating";
 
