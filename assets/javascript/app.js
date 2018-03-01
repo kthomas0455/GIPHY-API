@@ -1,6 +1,6 @@
 $(document).ready(function() {
   
-  var topics = ["Family-Guy", "Funny", "South-Park", "So Excited", "DragonBall Z", "Dying", "Simpsons"];
+  var topics = ["Family-Guy", "Funny", "South-Park", "So Excited", "DragonBall Z", "Im Dying", "Simpsons"];
   showButton();
 
   function showButton() {
