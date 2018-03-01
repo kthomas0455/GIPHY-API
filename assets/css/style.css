@@ -81,6 +81,12 @@ body {
 }
 
 #input {
-  padding: 10px 35px 10px 35px;
+  background: black;
+  font-family: 'CaveStoryRegular'; 
+  text-shadow: 5px 0 black, 0 5px black, 5px 0 black, 0 5px black;
+  font-size: 25px;
+  color: yellow;
+  border-color: yellow;
+  padding: 10px 30px 10px 30px;
 }
 
